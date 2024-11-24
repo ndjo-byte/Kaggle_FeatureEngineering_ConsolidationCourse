@@ -1,6 +1,6 @@
 # Kaggle Data Engineering 
 
-## Your model is the engine, but clean data is the fuel.
+## 'Your model is the engine, but clean data is the fuel.'
 
 I am sharing the following courses which have aided me in consolidating my domain knowledge. It has been especially useful in helping me create clean data which maximises machine learning (ML) performance. A real highlight was culmination of Kaggle House Prices ML competition, and the inclusion of powerful K-Means and PCA techniques in the course.
 
